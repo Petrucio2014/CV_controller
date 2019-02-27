@@ -1,38 +1,38 @@
-				CV Controller
+				CV Controller teste
 
-A tela de calibração irá abrir-se. Esteja com o equipamento indicado (Material com cor sólida, como uma camisa lisa) nas partes do corpo indicadas a seguir.
+A tela de calibraÃ§Ã£o irÃ¡ abrir-se. Esteja com o equipamento indicado (Material com cor sÃ³lida, como uma camisa lisa) nas partes do corpo indicadas a seguir.
  
-Pressione os botões e clique nos pontos especificados para selecionar a cor.
+Pressione os botÃµes e clique nos pontos especificados para selecionar a cor.
 
-	Essenciais ( Algumas aplicações podem demandar apenas um deles, como o Fruit Ninja):
+	Essenciais ( Algumas aplicaÃ§Ãµes podem demandar apenas um deles, como o Fruit Ninja):
 
 	0 - Tronco;
-	1 - Mão direita;
-	2 - Mão esquerda.
+	1 - MÃ£o direita;
+	2 - MÃ£o esquerda.
 
-	Extras para futuras implementações:
+	Extras para futuras implementaÃ§Ãµes:
 
-	3 - Pé direito;
-	4 - Pé esquerdo;
+	3 - PÃ© direito;
+	4 - PÃ© esquerdo;
 	5 - Cintura;
 	6 - Cotovelo direito;
 	7 - Cotovelo esquerdo;
 	8 - Joelho direito;
 	9 - Joelho esquerdo.
 
-Após identificar os pontos corretamentes, execute as ações ENQUANTO aperta os botões.
+ApÃ³s identificar os pontos corretamentes, execute as aÃ§Ãµes ENQUANTO aperta os botÃµes.
 
-Ps. É recomendado o uso de um aplicativo de outro dispositivo para controlar o pc ou a ajuda de outra pessoa.
+Ps. Ã‰ recomendado o uso de um aplicativo de outro dispositivo para controlar o pc ou a ajuda de outra pessoa.
 
 	a - Esquerda;
 	s - Centro horizontal;
 	d - Direita.
 	
-É recomendado dar um passo para as indicadas direções nessa parte.
+Ã‰ recomendado dar um passo para as indicadas direÃ§Ãµes nessa parte.
 
 
 	q - Agachamento;
-	w - Altura normal (Fique parado em pé);
+	w - Altura normal (Fique parado em pÃ©);
 	e - Pulo.
 
-	z - Mudar de aplicação/ para as aplicações, que inclue Subway Surf e Fruit Ninja atualmente.  
+	z - Mudar de aplicaÃ§Ã£o/ para as aplicaÃ§Ãµes, que inclue Subway Surf e Fruit Ninja atualmente.  
